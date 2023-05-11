@@ -1,0 +1,115 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Dragon-Dazs</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #e4b1ca;
+}
+
+    h1 {
+      color: white;
+      font-size: 80px;
+      text-align: center;
+      margin-top: 50px;
+    }
+    label{
+    width: 150px;
+    display: inline-block;
+    text-align: right;
+    padding-right: 5px;
+    font-weight: bold;
+}
+    img {
+      display: block;
+      margin: 50px;
+      max-width: 60%;
+      height: auto;
+    }
+    p {
+      color: black;
+      font-size: 20px;
+      text-align: justify;
+      margin: 20px;
+    }
+    h2 {
+      color: black;
+      font-size: 50px;
+      text-align: center;
+      margin: 50px;
+    }
+    h3 {
+      color: black;
+      font-size: 50px;
+      text-align: left;
+      margin-top: 50px;
+    }
+    .container {
+      text-align: center;
+      max-width: 800px;
+      margin:auto;
+    
+    }
+    .taro1 {
+    display: block;
+    margin: 0 auto;
+    width: 440px;
+    height: 520px;
+  }
+  .map {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+  }
+  .taro2 {
+    display: block;
+    margin: 0 auto;
+    width: 450px;
+    height: 600px;
+  }
+  .logo {display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+  }
+    
+  </style>
+</head>
+<body>
+  <div class="container">
+      <img src="logo.png" alt="Rainbow parfait" class="logo">
+       <h1>Dragon-Dazs</h1>
+       <p>P A S</p>
+  
+
+       <h2>Rainbow parfait</h2> 
+       <p>The colorful ice cream balls are blended with various fruit flavors and coconut milk as a base for an unprecedented flavor. It's an exclusive and worth tasting.</p>
+       <img src="taro1.jpg" alt="Rainbow parfait" class="taro1">
+ 
+  
+
+       <h2>Where To Buy</h2>
+       <p>CV4 7AJ</p> <img src="map.jpg" alt="Where To buy" class="map">
+
+
+ 
+       <h2>Related Product</h2>
+       <p>Strawberry ice cream</p>
+       <p>Vanilla ice cream mixed with strawberry ice cream, with strawberry pellets scattered inside, which slowly melt away like sand. It can be a feast for the palate.
+       <img src="taro2.jpg" alt="Strawberry ice cream" class="taro2">
+  
+       <h3>other detail</h3>
+       <p>Contacl us           Privacy Policy            Term of use</p>
+    
+  </div>
+
+
+</body>
+</html>
